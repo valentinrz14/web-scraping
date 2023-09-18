@@ -1,0 +1,705 @@
+[
+  {
+    "carouselImage": [
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_9_8__11_34_35_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_8_4__14_5_57_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_7_7__14_35_24_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_6_30__13_41_4_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_6_16__15_7_30_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_5_23__15_1_10_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_9_13__16_55_25_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_8_25__13_22_31_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_7_7__15_1_1_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_6_30__12_26_31_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_6_23__15_17_41_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_6_9__17_10_13_DE.jpg",
+      "https://www.modelissimo.eu/Balkenseiten/Banner_2023_5_31__17_23_47_DE.jpg"
+    ],
+    "products": [
+      {
+        "id": "99940",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Ferrari 250 GT California Spyder con desmontable Hardtop 1960 rojo negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99940.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99950",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 Renault Espace F1 V10 810HP 1994 mate-dorado negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99950.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99954",
+        "category": "NOVEDADES",
+        "name": "CMR 1:12 Ford GT40 MK II ganador 24h Le Mans 1966 McLaren/Amon",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99954.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "79862",
+        "category": "PRECIOS ESPECIALES",
+        "name": "AUTOart 1:12 McLaren P1 2013 negro mate rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/7/9/79862.jpg",
+        "oldPrice": "499,95",
+        "price": "199,95",
+        "discountPrice": "300,00",
+        "porcentagePrice": "60%"
+      },
+      {
+        "id": "99877",
+        "category": "NOVEDADES",
+        "name": "Bburago 1:18 Ferrari 296 GTB Assetto Fiorano 2022 rojo blanco",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99877.jpg",
+        "oldPrice": "49,95",
+        "price": "44,96",
+        "discountPrice": "4,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99955",
+        "category": "MODELISSIMO special edition",
+        "name": "CMR 1:12 Ford GT40 MK II No 5 24h Le Mans 1966 Bucknum/Hutcherson",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99955.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "82320",
+        "category": "MODELISSIMO special edition",
+        "name": "AUTOart 1:12 McLaren P1 2013 rojo metálico negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/8/2/82320.jpg",
+        "oldPrice": "499,95",
+        "price": "299,95",
+        "discountPrice": "200,00",
+        "porcentagePrice": "40%"
+      },
+      {
+        "id": "99951",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 Mercedes Brabus 900 Rocket Edition 2021 gris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99951.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99308",
+        "category": "MODELISSIMO special edition",
+        "name": "CMR 1:12 Ford GT40 MK II No 1 24h Le Mans 1966 Dirty Version Miles/Hulme",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99308.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "88359",
+        "category": "NOVEDADES",
+        "name": "CMR 1:18 Mazda 787 B ganador 24h Le Mans 1991 Weidler/Herbert/Gachot",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/8/8/88359.jpg",
+        "oldPrice": "59,95",
+        "price": "53,96",
+        "discountPrice": "5,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99811",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 Porsche 911 (992) GT3 2022 gris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99811.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99302",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 BMW 325i E30 descapotable 1991 azul oscuro-metálico Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99302.jpg",
+        "price": "69,95"
+      },
+      {
+        "id": "99247",
+        "category": "NOVEDADES",
+        "name": "KK-Scale 1:12 Porsche 550A Spyder 1956 argenteo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99247.jpg",
+        "oldPrice": "129,95",
+        "price": "116,96",
+        "discountPrice": "12,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99793",
+        "category": "NOVEDADES",
+        "name": "Spark 1:18 Red Bull RB18 ganador GP Japan campeón mundial 2022 Verstappen con Vitrine",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99793.jpg",
+        "price": "199,95"
+      },
+      {
+        "id": "99261",
+        "category": "MODELISSIMO special edition",
+        "name": "Minichamps 1:43 Audi RS6 Avant 2007 rojo Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99261.jpg",
+        "oldPrice": "39,95",
+        "price": "35,96",
+        "discountPrice": "3,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99250",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Mercedes 600 W100 Landaulet Queen Elizabeth II Kiesinger 1965 negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99250.jpg",
+        "oldPrice": "99,95",
+        "price": "89,96",
+        "discountPrice": "9,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99813",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 Koenigsegg Gemera Hybrid 2 2 Coupe 2021 gris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99813.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99262",
+        "category": "MODELISSIMO special edition",
+        "name": "Minichamps 1:43 Porsche 959 1987 rojo Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99262.jpg",
+        "oldPrice": "39,95",
+        "price": "35,96",
+        "discountPrice": "3,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "94222",
+        "category": "NOVEDADES",
+        "name": "Schuco Pro.R 1:43 GMC John Edgar Enterprises Maserati furgoneta por coches de carreras rojo argenteo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/4/94222.jpg",
+        "oldPrice": "149,95",
+        "price": "62,96",
+        "discountPrice": "86,99",
+        "porcentagePrice": "58%"
+      },
+      {
+        "id": "99810",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 BMW Alpina B10 4.6 E34 verde metálico",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99810.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99178",
+        "category": "MODELISSIMO special edition",
+        "name": "CMR 1:12 Ford GT40 MK II No 1 24h Le Mans 1966 Miles/Hulme",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99178.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99194",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Figuren Set Jake und Elwood Coche no incluido",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99194.jpg",
+        "oldPrice": "49,95",
+        "price": "44,96",
+        "discountPrice": "4,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99620",
+        "category": "NOVEDADES",
+        "name": "KK-Scale 1:18 Dodge Monaco 1974 verde metálico negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99620.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98971",
+        "category": "MODELISSIMO special edition",
+        "name": "Minichamps 1:43 VW T1 Transporter Porsche 1963 Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98971.jpg",
+        "oldPrice": "39,95",
+        "price": "35,96",
+        "discountPrice": "3,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "94221",
+        "category": "NOVEDADES",
+        "name": "Schuco Pro.R 1:43 BMW 2002 Baur descapotable azul claro-metálico Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/4/94221.jpg",
+        "oldPrice": "89,95",
+        "price": "39,95",
+        "discountPrice": "50,00",
+        "porcentagePrice": "56%"
+      },
+      {
+        "id": "99661",
+        "category": "NOVEDADES",
+        "name": "Bburago 1:18 Ferrari SF90 Spider 2021 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99661.jpg",
+        "oldPrice": "49,95",
+        "price": "44,96",
+        "discountPrice": "4,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98970",
+        "category": "MODELISSIMO special edition",
+        "name": "Minichamps 1:43 Volvo P1800 ES 1971 azul claro-metálico Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98970.jpg",
+        "oldPrice": "39,95",
+        "price": "35,96",
+        "discountPrice": "3,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99188",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Jeep Grand Wagoneer 1989 blanco",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99188.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99616",
+        "category": "NOVEDADES",
+        "name": "KK-Scale 1:18 Mercedes 500 SLC C107 1981 marrón metálico",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99616.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98849",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Opel Diplomat V8 1969 dorado metálico mate-negro Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98849.jpg",
+        "price": "74,95"
+      },
+      {
+        "id": "95980",
+        "category": "MODELISSIMO special edition",
+        "name": "Schuco Pro.R 1:43 Triumph TR6 Roadster creme-blanco Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/5/95980.jpg",
+        "oldPrice": "79,95",
+        "price": "29,95",
+        "discountPrice": "50,00",
+        "porcentagePrice": "63%"
+      },
+      {
+        "id": "99612",
+        "category": "NOVEDADES",
+        "name": "KK-Scale 1:12 Fiat 500 F Custom con desmontable Softtop 1968 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99612.jpg",
+        "oldPrice": "99,95",
+        "price": "89,96",
+        "discountPrice": "9,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98847",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Mercedes S-Klasse AMG-Line 2021 blanco metálico Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98847.jpg",
+        "price": "109,95"
+      },
+      {
+        "id": "99079",
+        "category": "NOVEDADES",
+        "name": "Norev 1:18 Porsche 911 (992) GT3 2021 blanco rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99079.jpg",
+        "oldPrice": "99,95",
+        "price": "89,96",
+        "discountPrice": "9,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99082",
+        "category": "MODELISSIMO special edition",
+        "name": "Bburago Signature Series 1:18 Ferrari Daytona SP3 con desmontable Hardtop 2021 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99082.jpg",
+        "oldPrice": "89,95",
+        "price": "80,96",
+        "discountPrice": "8,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98850",
+        "category": "NOVEDADES",
+        "name": "Norev 1:18 Opel Diplomat V8 1969 azul metálico mate-negro Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98850.jpg",
+        "price": "74,95"
+      },
+      {
+        "id": "99081",
+        "category": "MODELISSIMO special edition",
+        "name": "Bburago Signature Series 1:18 Ferrari Daytona SP3 2021 rojo metálico",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99081.jpg",
+        "oldPrice": "89,95",
+        "price": "80,96",
+        "discountPrice": "8,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99410",
+        "category": "NOVEDADES",
+        "name": "Solido 1:43 BMW M5 F90 Competition rojo metálico",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99410.jpg",
+        "oldPrice": "24,95",
+        "price": "22,46",
+        "discountPrice": "2,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98848",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Mercedes S-Klasse AMG-Line 2021 negro metálico Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98848.jpg",
+        "price": "109,95"
+      },
+      {
+        "id": "98965",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Ferrari 250 GT California Spyder 1960 argenteo negro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98965.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99318",
+        "category": "NOVEDADES",
+        "name": "Bburago 1:18 Ferrari 296 GTB 2021 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99318.jpg",
+        "oldPrice": "69,95",
+        "price": "62,96",
+        "discountPrice": "6,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98633",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Mercedes 450SL R107 US-Version American Gigolo 1979 negro Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98633.jpg",
+        "price": "94,95"
+      },
+      {
+        "id": "98960",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Porsche 917K ganador 24 Le Mans 1970 Herrmann/Attwood",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98960.jpg",
+        "oldPrice": "69,95",
+        "price": "62,96",
+        "discountPrice": "6,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99300",
+        "category": "MODELISSIMO special edition",
+        "name": "Almost Real 1:18 Porsche 911 Ruf Rodeo Prototyp 2020 dorado claro verde oscuro",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99300.jpg",
+        "oldPrice": "369,95",
+        "price": "296,96",
+        "discountPrice": "72,99",
+        "porcentagePrice": "20%"
+      },
+      {
+        "id": "98634",
+        "category": "NOVEDADES",
+        "name": "Norev 1:18 Mercedes 380SL R107 1985 argenteo Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98634.jpg",
+        "price": "94,95"
+      },
+      {
+        "id": "98844",
+        "category": "MODELISSIMO special edition",
+        "name": "KK-Scale 1:18 Singer 911 Targa verde oscuro-metálico",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98844.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99245",
+        "category": "NOVEDADES",
+        "name": "KK-Scale 1:12 Porsche 550A Spyder No 130 Little Bastard 1956 James Dean modelo sin figura",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99245.jpg",
+        "oldPrice": "129,95",
+        "price": "116,96",
+        "discountPrice": "12,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98285",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Porsche 911 (964) Carrera 4 Targa 1990 rojo Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98285.jpg",
+        "price": "89,95"
+      },
+      {
+        "id": "95454",
+        "category": "MODELISSIMO special edition",
+        "name": "Greenlight Collectibles 1:18 Ford F-100 con Smokey Bear figura 1975 azul turquesa blanco",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/5/95454.jpg",
+        "oldPrice": "99,95",
+        "price": "49,95",
+        "discountPrice": "50,00",
+        "porcentagePrice": "50%"
+      },
+      {
+        "id": "99193",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Dodge Monaco Bluesmobile look a like 1974 negro blanco mit Lautsprecher",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99193.jpg",
+        "oldPrice": "89,95",
+        "price": "80,96",
+        "discountPrice": "8,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97833",
+        "category": "MODELISSIMO special edition",
+        "name": "Minichamps 1:43 Triumph Spitfire MK4 Roadster 1972 verde oscuro Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97833.jpg",
+        "oldPrice": "34,95",
+        "price": "26,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "23%"
+      },
+      {
+        "id": "98295",
+        "category": "PRECIOS ESPECIALES",
+        "name": "AUTOart 1:18 McLaren 675 LT 2016 naranja",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98295.jpg",
+        "oldPrice": "249,95",
+        "price": "79,95",
+        "discountPrice": "170,00",
+        "porcentagePrice": "68%"
+      },
+      {
+        "id": "99158",
+        "category": "MODELISSIMO special edition",
+        "name": "NZG 1:18 Mercedes AMG One Street 2023 argenteo modelo especial de Mercedes",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99158.jpg",
+        "oldPrice": "154,95",
+        "price": "139,46",
+        "discountPrice": "15,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97720",
+        "category": "PRECIOS ESPECIALES",
+        "name": "Minichamps 1:43 Mercedes 600 SEC C140 Coupe 1992 negro Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97720.jpg",
+        "oldPrice": "34,95",
+        "price": "31,46",
+        "discountPrice": "3,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "94211",
+        "category": "MODELISSIMO special edition",
+        "name": "Spark 1:18 Red Bull RB16B GP Turquia campeón mundial 2021 Verstappen",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/4/94211.jpg",
+        "price": "159,95"
+      },
+      {
+        "id": "99189",
+        "category": "PRECIOS ESPECIALES",
+        "name": "KK-Scale 1:18 Jeep Grand Wagoneer 1989 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99189.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97675",
+        "category": "MODELISSIMO special edition",
+        "name": "Norev 1:18 Porsche 911 (964) Carrera 4 Coupe 1990 azul oscuro-metálico Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97675.jpg",
+        "price": "89,95"
+      },
+      {
+        "id": "98469",
+        "name": "KK-Scale 1:12 Porsche 356 A Speedster No 33 1955 blanco James Dean",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98469.jpg",
+        "oldPrice": "129,95",
+        "price": "116,96",
+        "discountPrice": "12,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99080",
+        "name": "Norev 1:18 Mercedes 450 SL R107 de der serie Dallas 1979 rojo con desmontable Softtop",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99080.jpg",
+        "price": "94,95"
+      },
+      {
+        "id": "97676",
+        "name": "Norev 1:18 Volvo P1800 S 1969 gris oscuro Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97676.jpg",
+        "price": "74,95"
+      },
+      {
+        "id": "77391",
+        "name": "MCG 1:18 Opel Manta B Mattig de dem película Manta Manta 1991 amarillo azul metálico violeta",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/7/7/77391.jpg",
+        "oldPrice": "64,95",
+        "price": "58,46",
+        "discountPrice": "6,49",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "99073",
+        "name": "Werk83 1:18 Porsche 936 ganador 24h Le Mans 1976 Martini Ickx/van Lennep",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/9/99073.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97674",
+        "name": "Norev 1:18 Porsche 911 (964) Carrera 4 descapotable 1990 negro metálico Limited Edition 1000 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97674.jpg",
+        "price": "89,95"
+      },
+      {
+        "id": "98258",
+        "name": "Schuco Pro.R 1:64 VW T1 Renntransporter Porsche Continental Motorsports azul negro argenteo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98258.jpg",
+        "oldPrice": "79,95",
+        "price": "29,95",
+        "discountPrice": "50,00",
+        "porcentagePrice": "63%"
+      },
+      {
+        "id": "98964",
+        "name": "KK-Scale 1:18 Ferrari 250 GT California Spyder US-Version 1960 rojo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98964.jpg",
+        "oldPrice": "79,95",
+        "price": "71,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97659",
+        "name": "CMR 1:12 Porsche 911 Carrera RSR 2.1 No 9 6h Watkins Glen 1974 Martini Lennep/Müller",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97659.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "98334",
+        "name": "Solido 1:18 Ford Shelby Mustang GT500 KR 2022 gris metálico azul",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98334.jpg",
+        "oldPrice": "47,95",
+        "price": "35,96",
+        "discountPrice": "11,99",
+        "porcentagePrice": "25%"
+      },
+      {
+        "id": "98963",
+        "name": "KK-Scale 1:18 Figur Ferris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98963.jpg",
+        "oldPrice": "29,95",
+        "price": "26,96",
+        "discountPrice": "2,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "97658",
+        "name": "CMR 1:12 Porsche 911 Carrera RSR 2.1 No 00 24h Daytona 1977 Field/Ongais/Follmer",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97658.jpg",
+        "oldPrice": "219,95",
+        "price": "197,96",
+        "discountPrice": "21,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "95530",
+        "name": "Schuco 1:18 Mercedes L911 Cama plana con lona azul gris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/5/95530.jpg",
+        "oldPrice": "149,95",
+        "price": "99,95",
+        "discountPrice": "50,00",
+        "porcentagePrice": "33%"
+      },
+      {
+        "id": "98962",
+        "name": "KK-Scale 1:18 Porsche 917K No 20 24h Le Mans 1970 Siffert/Redman",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98962.jpg",
+        "oldPrice": "69,95",
+        "price": "62,96",
+        "discountPrice": "6,99",
+        "porcentagePrice": "10%"
+      },
+      {
+        "id": "96255",
+        "name": "Minichamps 1:43 Porsche 928 S 1978 gris metálico Limited Edition 500 pcs",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/6/96255.jpg",
+        "oldPrice": "34,95",
+        "price": "26,96",
+        "discountPrice": "7,99",
+        "porcentagePrice": "23%"
+      },
+      {
+        "id": "96643",
+        "name": "Jewel Cases 1:43 Acryl-Vitrine für 18 Modelle in 1:43 se puede llenar con o sin base Maße: Länge 45,5cm, Tiefe 8cm, Höhe 30,5cm alta calidad modelos no incluido",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/6/96643.jpg",
+        "price": "59,95"
+      },
+      {
+        "id": "98942",
+        "name": "Solido 1:18 McLaren MCL36 GP Emilia Romagna 2022 Norris",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/8/98942.jpg",
+        "oldPrice": "54,95",
+        "price": "39,95",
+        "discountPrice": "15,00",
+        "porcentagePrice": "27%"
+      },
+      {
+        "id": "97209",
+        "name": "Norev 1:18 Volvo P1800 ES 1973 azul oscuro-metálico Limited Edition 500 pcs exklusiv für Modelissimo",
+        "image": "https://www.modelissimo.eu/Modelissimo/KleinbilderMassstab/0/9/7/97209.jpg",
+        "price": "74,95"
+      }
+    ]
+  }
+]
