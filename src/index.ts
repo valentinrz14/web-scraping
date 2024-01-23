@@ -3,9 +3,10 @@ import fs from "fs";
 import {
   PAGE_HEADER_IMAGES_TIMEOUT,
   PAGE_PRODUCTS_TIMEOUT,
+  PAGE_PRODUCT_DETAIL_TIMEOUT,
   URLS,
 } from "./constantes";
-import { DataResponse, ProductsResponse } from "./types";
+import { DataResponse, ProductDetailResponse, ProductsResponse } from "./types";
 import { getHeaderImage } from "./utils/get-header-image";
 import { getProductsTexts } from "./utils/get-products-texts";
 import { getTextFiltered } from "./utils/get-text-filtered";
@@ -20,7 +21,10 @@ const productPriceFilter: Array<
 let pruductObjet: any = {};
 
 (async () => {
-  const browser = await chromium.launch({ args: ["--window-size=1920,1080"] });
+  const browser = await chromium.launch({
+    args: ["--window-size=1920,1080"],
+    headless: false,
+  });
 
   const context = await browser.newContext({
     viewport: { width: 1920, height: 1080 },
@@ -86,7 +90,6 @@ let pruductObjet: any = {};
     pageProducts,
     "#DreiPreisBox > span"
   );
-  console.log({ productPrices });
 
   for (const cadena of productPrices) {
     if (cadena.includes("precio")) {
@@ -138,6 +141,49 @@ let pruductObjet: any = {};
 
   const jsonData = JSON.stringify(data, null, 2);
   fs.writeFileSync(`${__dirname}/assets/products.json`, jsonData);
+
+  // Get Product Detail with `id`
+  const pageProductDetail = await context.newPage();
+
+  const id = "99940";
+
+  await pageProductDetail.goto(URLS.PAGE_PRODUCT_DETAIL(id), {
+    timeout: PAGE_PRODUCT_DETAIL_TIMEOUT,
+  });
+
+  const productDetailTexts = await getProductsTexts(
+    pageProductDetail,
+    "div.ArtikelUnter"
+  );
+
+  await pageProductDetail.waitForSelector("a>img");
+  const productDetailImages = await pageProductDetail.evaluate(() => {
+    const images = document.querySelectorAll("a>img");
+    const urls = [];
+    for (let image of images) {
+      urls.push(image.getAttribute("src"));
+    }
+    return urls;
+  });
+
+  const prouductDetail: ProductDetailResponse = {
+    id,
+    category: productDetailTexts[0],
+    manufacter: productDetailTexts[1],
+    scale: productDetailTexts[2],
+    type: productDetailTexts[3],
+    name: productDetailTexts[4],
+    material: productDetailTexts[5],
+    year: productDetailTexts[6],
+    color: productDetailTexts[7],
+    images: productDetailImages,
+  };
+
+  const jsonDataProductDetail = JSON.stringify(prouductDetail, null, 2);
+  fs.writeFileSync(
+    `${__dirname}/assets/products-detail.json`,
+    jsonDataProductDetail
+  );
 
   console.log("Web Scraping finished");
 
